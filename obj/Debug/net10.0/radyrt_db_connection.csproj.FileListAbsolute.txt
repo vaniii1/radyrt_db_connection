@@ -34,3 +34,4 @@
 /Users/ivanhromovyi/RiderProjects/radyrt_db_connection/radyrt_db_connection/obj/Debug/net10.0/radyrt_db_connection.pdb
 /Users/ivanhromovyi/RiderProjects/radyrt_db_connection/radyrt_db_connection/obj/Debug/net10.0/radyrt_db_connection.genruntimeconfig.cache
 /Users/ivanhromovyi/RiderProjects/radyrt_db_connection/radyrt_db_connection/obj/Debug/net10.0/ref/radyrt_db_connection.dll
+/Users/ivanhromovyi/RiderProjects/radyrt_db_connection/radyrt_db_connection/obj/Debug/net10.0/radyrt_db_connection.sourcelink.json

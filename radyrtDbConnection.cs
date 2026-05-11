@@ -3,7 +3,7 @@
 class radyrtDbConnection
 {
     static string connStr =
-        "Server=localhost;Database=RåDyrT;Uid=root;Pwd=KljJ2231;";
+        "Server=localhost;Database=RåDyrT;Uid=root;Pwd=1234;";
 
     static void Main()
     {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("radyrt_db_connection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6642ebf73111a978e31db83122c52097598a47c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+322dcaf3b3703163f72fb906ce3c7def3ea52aae")]
 [assembly: System.Reflection.AssemblyProductAttribute("radyrt_db_connection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("radyrt_db_connection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
